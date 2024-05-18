@@ -1,1 +1,2 @@
 # dbtwithsnowflake
+initialized the project
